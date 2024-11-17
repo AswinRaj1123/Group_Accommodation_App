@@ -74,3 +74,5 @@ python app.py
 - Upload the hostel information CSV file.
 - Click the "Upload and Allocate" button to process the files.
 - Download the resulting CSV file with the room allocation details.
+
+https://drive.google.com/file/d/1EZSr4IiItBhOpTxOQv-M3KYK63n1cjuh/view?usp=sharing
